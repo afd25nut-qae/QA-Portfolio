@@ -1,40 +1,66 @@
-Andrea Flores — QA Engineer
+# 👩‍💻 Andrea Flores  
+### QA Engineer | Manual Testing | API & Web Testing  
 
-Detail-oriented QA Engineer in training with hands-on experience in manual API and web application testing. Strong background in requirement analysis, test case design, and defect reporting. Passionate about ensuring product quality through structured testing and clear documentation.
+Detail-oriented QA Engineer in training with hands-on experience in **manual API testing**, **web application testing**, and **structured test design**. Strong at translating requirements into test scenarios, identifying defects, and documenting findings clearly for development teams.
 
-Skills
+---
 
-Manual Testing
+## 🧠 About Me
 
-API Testing
+🔍 Passionate about software quality and user experience  
+🧪 Focused on structured testing and defect prevention  
+📋 Experienced in requirement analysis and test documentation  
+🚀 Transitioning into the tech industry through real-world QA projects  
 
-UI Testing
+---
 
-Functional Testing
+## 🛠️ Skills
 
-Test Case Design
+- Manual Testing  
+- API Testing  
+- UI Testing  
+- Functional Testing  
+- Test Case Design  
+- Bug Reporting  
+- Requirements Analysis  
+- Test Documentation  
 
-Bug Reporting
+---
 
-Requirements Analysis
+## 🔧 Tools
 
-Tools
+| Testing | Documentation | Other |
+|--------|--------------|-------|
+| Postman | Jira | Google Sheets |
+| Chrome DevTools | draw.io | Browser DevTools |
 
-Postman | Jira | draw.io | Google Sheets | Chrome DevTools
+---
 
-Projects
-🧪 API Manual Testing Project
+## 📂 Projects
 
-Manual validation of REST API endpoints related to delivery services. Designed test cases, executed API tests in Postman, and documented defects in Jira.
+### 🧪 API Manual Testing Project  
+Manual validation of REST API endpoints related to delivery services. Designed and executed API test cases using Postman and documented defects in Jira.
 
-🌐 Web Application Testing Project
+### 🌐 Web Application Testing Project  
+Performed functional and UI testing for booking and payment flows. Conducted cross-browser testing and reported usability and validation issues.
 
-Tested booking and payment flows in a web application. Performed cross-browser functional testing and identified usability and validation issues.
+### 📄 Test Design & Documentation Project  
+Created flow diagrams, mind maps, and structured test cases using equivalence partitioning and boundary value techniques.
 
-📄 Test Design & Documentation Project
+➡️ Project details and evidence can be found in the **projects** folder.
 
-Created flow diagrams, mind maps, and structured test cases using test design techniques such as equivalence partitioning and boundary values.
+---
 
-Evidence
+## 📎 Evidence
 
-Each project folder contains supporting test documentation and defect reports.
+Each project contains:
+- Test cases  
+- Bug reports  
+- Supporting documentation  
+
+---
+
+## 📫 Contact
+
+📧 (Add your email here)  
+💼 LinkedIn: (Add your link)
