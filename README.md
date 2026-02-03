@@ -38,13 +38,13 @@ Detail-oriented QA Engineer in training with hands-on experience in **manual API
 
 ## 📂 Projects
 
-### 🧪 [API Manual Testing Project](projects/API%20Manual%20Testing/)
+### 🧪 [API Manual Testing Project](projects/API%20Manual%20Testing/README.md)
 Manual testing of REST API endpoints, validation of requests/responses, and defect reporting.
 
-### 🌐 [Web Application Testing Project](projects/Web%20Application%20Testing/)
+### 🌐 [Web Application Testing Project](projects/Web%20Application%20Testing/README.md)
 Functional and UI testing of booking and payment flows across browsers.
 
-### 📄 [Test Design & Documentation Project](projects/Test%20Design%20&%20Documentation/)
+### 📄 [Test Design & Documentation Project](projects/Test%20Design%20&%20Documentation/README.md)
 Structured test design using flow diagrams, mind maps, and advanced testing techniques.
 
 
